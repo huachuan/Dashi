@@ -1,1 +1,1 @@
-# Dashi is a personalized restaurant recommendation app, give recommendations based on user's visiting history.
+# Dashi aims to use personalization to improve restaurant search and recommendation based on search history and favorite record.
